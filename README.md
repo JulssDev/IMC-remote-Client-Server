@@ -4,6 +4,25 @@ Este proyecto demuestra cómo implementar una comunicación **cliente-servidor**
 
 ---
 
+## Estructura
+IMC-remote-Client-Server/
+│
+├── codes/                      # Código del cliente (interfaz y lógica)
+│   ├── client.py                # Script principal del cliente
+│   ├── server.py                # Script principal del servidor
+│
+├── documents/                     # Documentos Wireshark
+│   ├── IMCImplementacion(Pruebas).docx         # Pruebas de la captura
+│   ├── IMCCapture.pcapng          # Captura via WireShark
+│
+├── README.md                    # Documentación principal del repo
+└── .gitignore                   # Archivos a ignorar por Git
+
+
+---
+
+---
+
 ## 📋 Contenido
 
 - [Requisitos previos](#-requisitos-previos)
