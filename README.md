@@ -5,6 +5,7 @@ Este proyecto demuestra cómo implementar una comunicación **cliente-servidor**
 ---
 
 ## Estructura
+```bash
 IMC-remote-Client-Server/
 │
 ├── codes/                      # Código del cliente (interfaz y lógica)
@@ -17,7 +18,7 @@ IMC-remote-Client-Server/
 │
 ├── README.md                    # Documentación principal del repo
 └── .gitignore                   # Archivos a ignorar por Git
-
+```
 
 ---
 
