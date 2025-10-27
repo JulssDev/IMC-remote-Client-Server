@@ -4,7 +4,7 @@ Este proyecto demuestra cómo implementar una comunicación **cliente-servidor**
 
 ---
 
-## Estructura
+## 📋 Estructura
 ```bash
 IMC-remote-Client-Server/
 │
